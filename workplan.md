@@ -26,6 +26,6 @@
 ----------------
 
 **DIGITAL SIGNATURES**
-|Ben|Echo
+|**Ben**|**Echo**
 |------|------
 |Unsign|Signed
